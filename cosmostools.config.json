@@ -9,7 +9,7 @@
       "viewDenom": "HUAHUA",
       "chainDenom": "uhuahua",
       "addressPrefix": "chihuahua",
-      "icon": "https://avatars.githubusercontent.com/u/94940349?v=4",
+      "icon": "https://avatars.githubusercontent.com/u/94940349?v=4"
     },
     "coingeckoId": "chihuahua-token"
   },
@@ -23,7 +23,7 @@
       "viewDenom": "AKT",
       "chainDenom": "uakt",
       "addressPrefix": "akash",
-      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.svg",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.svg"
     },
     "coingeckoId": "akash-network"
   },
@@ -37,7 +37,7 @@
       "viewDenom": "BCNA",
       "chainDenom": "ubcna",
       "addressPrefix": "bcna",
-      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg"
     },
     "coingeckoId": "bitcanna"
   },
@@ -51,7 +51,7 @@
       "viewDenom": "OSMO",
       "chainDenom": "uosmo",
       "addressPrefix": "osmo",
-      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.svg"
     },
     "coingeckoId": "osmosis"
   },
@@ -65,7 +65,7 @@
       "viewDenom": "IOV",
       "chainDenom": "uiov",
       "addressPrefix": "star",
-      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/iov.svg",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/iov.svg"
     },
     "coingeckoId": "starname"
   },
@@ -79,7 +79,7 @@
       "viewDenom": "STARS",
       "chainDenom": "ustars",
       "addressPrefix": "stars",
-      "icon": "https://raw.githubusercontent.com/public-awesome/assets/main/images/stars.png",
+      "icon": "https://raw.githubusercontent.com/public-awesome/assets/main/images/stars.png"
     },
     "coingeckoId": "stargaze"
   },
@@ -93,7 +93,7 @@
       "viewDenom": "BTSG",
       "chainDenom": "ubtsg",
       "addressPrefix": "bitsong",
-      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.svg",
+      "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.svg"
     },
     "coingeckoId": "bitsong"
   }
