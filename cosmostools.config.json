@@ -96,5 +96,19 @@
       "icon": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.svg"
     },
     "coingeckoId": "bitsong"
-  }
+  },
+  {
+    "chainId": "juno-1",
+    "name": "Juno",
+    "desc": "Use & create interoperable applications on Juno. A decentralized, public, permission-less network for cross-chain smart contracts.",
+    "apiURL": "https://api-juno-ia.cosmosia.notional.ventures",
+    "rpcURL": "https://rpc-juno-ia.cosmosia.notional.ventures",
+    "coinLookup": {
+      "viewDenom": "JUNO",
+      "chainDenom": "ujuno",
+      "addressPrefix": "juno",
+      "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg"
+    },
+    "coingeckoId": "juno-network"
+  }  
 ]
